@@ -1,0 +1,44 @@
+Phishing Email Analysis
+
+1. From: support@paypal.com -- service@paypal.com is the original .
+
+2. To: goi345@gmail.com name should need to be a legal name because it is a bank
+account, but its like goi345.
+
+3. Dear Customer → The paypal does not tell generic greetings (dear customer) , they
+will send with the real name of the customer.
+
+4. http://yourbanksecure-login.com/verify -- suspicious
+• Because its not https (not secure)
+while analyzed through urltopng -> Its given an error( Dangerous site)
+• It’s a paypal mail , but it’s like yourbanksecure-login.com/verify. So it
+strongly tells it is a suspicious website.
+• The original Paypal login: https://www.paypal.com/signin
+
+5. Contact our support team at support@company-paypal.com → The contact of
+paypal email should not be like this , because there is no need of telling company-
+paypal, they can directly tell it as paypal.com. In the mail , sender mail id and the
+contact for support mail id is differ. So it’s a suspicious mail id.
+
+6. Failure to update within 24 hours will result in account suspension → Making the
+customer to respond faster so it’s a red flag.
+
+7. The Security Team YourBank Online Services
+• It’s a Paypal mail, But they have mentioned as yourBank , they did not mention
+the exact paypal name at the end .
+• And there is a confusion between the security and the support team.
+This is a phishing attempt ,to trick users by clicking a malicious link and stealing their
+PayPal or banking credentials.
+
+
+The mail is a phishing mail due to the following reasons:
+
+1. Dear customer- is mentioned instead of account holder name.
+2. support@paypal.com
+    support@company-paypal.com
+     There are differences in the contact info
+3. http://yourbanksecure-login.com/verify
+     - Not a secured bank website as https is  missing.
+4. scares you that account will be closed within 24 hrs to make you rush.  
+5. Account holder details are not  mentioned .
+6. security team/ support team - real company use only one official domain name
