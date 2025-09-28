@@ -1,0 +1,20 @@
+From: support@paypal.com 
+To: goi345@gmail.com
+ Subject: Urgent: Your Bank Account Has Been Locked
+
+Dear Customer,
+
+We have detected unauthorized access to your bank account. For your security, we have temporarily locked your account.
+
+Please verify your identity immediately by visiting the link below: 👉 Verify Now: http://yourbanksecure-login.com/verify
+
+Failure to update within 24 hours will result in account suspension. Contact our support team at support@company-paypal.com if you have questions.
+
+Thank you for your cooperation.
+
+The Security Team YourBank Online Services
+
+
+
+Best Regards,
+PayPal Security Team
